@@ -6,3 +6,11 @@ C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.csproj.Suggested
 C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.csproj.CoreCompileInputs.cache
 C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.exe
 C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.pdb
+C:\да\GitHub\NewDive\NewDive\bin\Debug\NewDive.exe.config
+C:\да\GitHub\NewDive\NewDive\bin\Debug\NewDive.exe
+C:\да\GitHub\NewDive\NewDive\bin\Debug\NewDive.pdb
+C:\да\GitHub\NewDive\NewDive\obj\Debug\NewDive.csproj.AssemblyReference.cache
+C:\да\GitHub\NewDive\NewDive\obj\Debug\NewDive.csproj.SuggestedBindingRedirects.cache
+C:\да\GitHub\NewDive\NewDive\obj\Debug\NewDive.csproj.CoreCompileInputs.cache
+C:\да\GitHub\NewDive\NewDive\obj\Debug\NewDive.exe
+C:\да\GitHub\NewDive\NewDive\obj\Debug\NewDive.pdb
