@@ -1,0 +1,8 @@
+C:\да\Программы\C#\NewDive\NewDive\bin\Debug\NewDive.exe.config
+C:\да\Программы\C#\NewDive\NewDive\bin\Debug\NewDive.exe
+C:\да\Программы\C#\NewDive\NewDive\bin\Debug\NewDive.pdb
+C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.csproj.AssemblyReference.cache
+C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.csproj.SuggestedBindingRedirects.cache
+C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.csproj.CoreCompileInputs.cache
+C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.exe
+C:\да\Программы\C#\NewDive\NewDive\obj\Debug\NewDive.pdb
