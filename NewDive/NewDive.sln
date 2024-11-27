@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDive", "NewDive\NewDive.csproj", "{5BE59351-65EC-4A30-AA2B-91F18870A225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE59351-65EC-4A30-AA2B-91F18870A225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE59351-65EC-4A30-AA2B-91F18870A225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE59351-65EC-4A30-AA2B-91F18870A225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE59351-65EC-4A30-AA2B-91F18870A225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D204B935-8246-4E9C-BD58-617ABD34E0A8}
+	EndGlobalSection
+EndGlobal

@@ -54,9 +54,9 @@ namespace NewDive
         public class Axe : Weapon
         {
             private new char[,,] icon = {{
-        {'<',']','/','|',},       //    ||T\        <]/|
-        {' ','|','\\','|',},       //   ||_/         |\|
-        {' ','|',' ',' '}}};     //     ][           |
+        {'<',']','/','|',},       //    ||T\       <]/|
+        {' ','|','\\','|',},       //   ||_/        |\|
+        {' ','|',' ',' '}}};     //     ][          |
 
             public Axe(string Name = "Axe", int DMG = 10, int DUR = 15)
             {
